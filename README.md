@@ -22,4 +22,4 @@ Run
 ---
 Verify that you are logged in by typing ls. You will get the root folder contents.
 
-1. Type folder_size and press Enter
+1. Type folder_size and press Enter to get the size of the current folder. Or cd into another folder to get the size of that folder.
