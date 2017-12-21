@@ -9,6 +9,7 @@ Prepare your local machine
 2. The unpacked folder was in my case dropbox-python-sdk-2.1.0. Find and open the file dropbox-python-sdk-2.1.0/example/cli_client.py with your favourite editor.
 
 3. Insert my code before the do_ls() function.
+
 Prepare your Dropbox
 --------------------
 Grant your Python app access to your Dropbox account:
@@ -18,6 +19,7 @@ Grant your Python app access to your Dropbox account:
 2. Copy-paste the provided App key and App secret into cli_client.py (variables near the top of the file).
 
 3. Run the cli_client.py file, type login and press Enter. Go to the link provided, allow the app and copy-paste the provided authorization code into the console.
+
 Run
 ---
 Verify that you are logged in by typing ls. You will get the root folder contents.
